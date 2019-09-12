@@ -4,3 +4,6 @@ Task management for businesses can now rely on GT OpenDesk is VeryGood IT's newe
 # Be part of this open source project, sign up to participate!
 access:
 http://www.grantingtechnology.org/Secure/User/CrudIdentity/601
+
+# Help develop database modeling(google docs-Dra.io)
+https://drive.google.com/file/d/19JwxZBZcfASHJTVfXUX0qG50jLyr56mg/view?usp=sharing
